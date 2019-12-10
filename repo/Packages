@@ -618,3 +618,38 @@ SHA256: eaa2fa07dd78eecd95b2fdd0443ad17939c3690e9309c2bfdee2cccf39e41ea1
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta27
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta27_iphoneos-arm.deb
+Size: 131062
+MD5sum: b80b7ba1561a72b2ff007f9c109ae983
+SHA1: 31cd792f061a51c42431bb38cd9ef994610d5a1a
+SHA256: 6e17658278736ccf03322f2012e5374e58b1fab4a2ad8dbaf183b5b52f3df381
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.katalkrevealer
+Name: KaTalkRevealer
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: 상대방의 모든 대화 상대에게서 삭제된 카톡 메시지를 볼 수 있습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 540
+Filename: debs/kr.xsf1re.katalkrevealer_0.0.1_iphoneos-arm.deb
+Size: 10106
+MD5sum: 834509468e9139251c7660daffb3cc9c
+SHA1: 9d696938e4f426081854828fc1ddcdb78989fa6c
+SHA256: 9564f5ca68c7bd4146993e0cfa5c3ab3ade252602ef81b9af0ae1044e7f183e3
