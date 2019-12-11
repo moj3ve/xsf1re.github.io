@@ -654,3 +654,25 @@ MD5sum: 834509468e9139251c7660daffb3cc9c
 SHA1: 9d696938e4f426081854828fc1ddcdb78989fa6c
 SHA256: 9564f5ca68c7bd4146993e0cfa5c3ab3ade252602ef81b9af0ae1044e7f183e3
 
+<<<<<<< HEAD
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta28
+Installed-Size: 804
+Filename: debs/kr.xsf1re.flyjb_0.2~beta28_iphoneos-arm.deb
+Size: 132060
+MD5sum: 43ef6e4b2164cab65b6ef55a789d7ab8
+SHA1: d7be9d2697551643415709d62378f612db2dce71
+SHA256: 6a3e5f77359fa30bca650a1dadce3f73e31dba93e9c4acf19adb7075515d1c10
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+=======
+>>>>>>> 3ea2599b0a0f5c7c495073c851e5f6afb81430c0
