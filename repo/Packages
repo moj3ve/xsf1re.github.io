@@ -746,3 +746,19 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
 
+Package: kr.xsf1re.katalkrevealer
+Name: KaTalkRevealer
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: 상대방의 모든 대화 상대에게서 삭제된 카톡 메시지를 볼 수 있습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 548
+Filename: debs/kr.xsf1re.katalkrevealer_0.0.3_iphoneos-arm.deb
+Size: 18372
+MD5sum: 9d70b15e5a8e0b07892c8eff95e552bc
+SHA1: 0617f37069ec089ba0723845a86f8fd141b10b6c
+SHA256: 679183a12cd620aace9366c3c4cb16a4a858ddebe04116480a449cf4a4dc3dd0
+
