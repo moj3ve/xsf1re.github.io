@@ -762,3 +762,38 @@ MD5sum: 9d70b15e5a8e0b07892c8eff95e552bc
 SHA1: 0617f37069ec089ba0723845a86f8fd141b10b6c
 SHA256: 679183a12cd620aace9366c3c4cb16a4a858ddebe04116480a449cf4a4dc3dd0
 
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta32
+Installed-Size: 804
+Filename: debs/kr.xsf1re.flyjb_0.2~beta32_iphoneos-arm.deb
+Size: 132640
+MD5sum: de9407fdab140c30d1626a1dfa836d51
+SHA1: b609e68954ef6e8babb82a191b52191c14e15ee0
+SHA256: 9b5f1f570f11647220d8cd4baa121f6f55fc1ee517db5aaa622e0b3c1d41cd2a
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.9.2 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1.2
+Installed-Size: 540
+Filename: debs/kr.xsf1re.ebsihespeeder_0.1.2_iphoneos-arm.deb
+Size: 18732
+MD5sum: a8e26a71e53018165ce773da5981acdf
+SHA1: 459a37bce6f8518aa7aeb0d62207a6437bde289f
+SHA256: c709c1708ad5965ef4555370cb66573b450cb2a6bad969cc9fdaebfbc7932a1c
+
