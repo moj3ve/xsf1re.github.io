@@ -813,3 +813,38 @@ MD5sum: 726707b226311cfeb61daddf20790778
 SHA1: 379e6ed7bd0c140c680ff59f9f68c588a9cb906e
 SHA256: 04420994f3ac3620e70bdf317f1e2ef02a767536ee92cb432fc7b8b2d5a1bee7
 
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta33
+Installed-Size: 804
+Filename: debs/kr.xsf1re.flyjb_0.2~beta33_iphoneos-arm.deb
+Size: 133006
+MD5sum: cabb1e8dd54d2260e2b0e83887658854
+SHA1: 4d16c1f6f3443292f5dcc3ba5646155eb02b63f6
+SHA256: 304e5b0cff11cc9df1ee2441115bbad3ce243311cdf841aec48f464866802bfd
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.substrateloaderfix
+Name: SubstrateLoaderFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Substrate 0.9.7100~b4와 호환됩니다. 리브나 U+Pass, 롯데면세점 등 일부 앱과 SubstrateLoader가 서로 충돌되는 현상을 임시방편으로 고치는 역할을 합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.3
+Installed-Size: 88
+Filename: debs/kr.xsf1re.substrateloaderfix_0.3_iphoneos-arm.deb
+Size: 50514
+MD5sum: 52e7c1bac80ae5a6b264ff9e0c5c9e8d
+SHA1: 57c835396d2d0ad8cc132cd0fb2ef873bc108c5d
+SHA256: 9f44021585953a15030e1bfd6aff1e0b09384ca1f0cf9cefc9f252d6ee6c293b
+
