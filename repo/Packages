@@ -785,7 +785,7 @@ Package: kr.xsf1re.ebsihespeeder
 Name: EBSiHESpeeder
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
 Architecture: iphoneos-arm
-Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.9.2 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.9.2 앱버전 및 64비트 기기에서만 작동 가능합니다.
 Maintainer: XsF1re <shg1725x@yahoo.com>
 Author: XsF1re <shg1725x@yahoo.com>
 Section: Tweaks
@@ -796,4 +796,20 @@ Size: 18732
 MD5sum: a8e26a71e53018165ce773da5981acdf
 SHA1: 459a37bce6f8518aa7aeb0d62207a6437bde289f
 SHA256: c709c1708ad5965ef4555370cb66573b450cb2a6bad969cc9fdaebfbc7932a1c
+
+Package: kr.xsf1re.lockeypad7
+Name: LockeyPad7
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iOS 7 스타일의 숫자 키패드로 변경해줍니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 152
+Filename: debs/kr.xsf1re.lockeypad7_0.0.1_iphoneos-arm.deb
+Size: 4548
+MD5sum: 726707b226311cfeb61daddf20790778
+SHA1: 379e6ed7bd0c140c680ff59f9f68c588a9cb906e
+SHA256: 04420994f3ac3620e70bdf317f1e2ef02a767536ee92cb432fc7b8b2d5a1bee7
 
