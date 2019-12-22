@@ -36,7 +36,7 @@
             },
             {
                "title":"버전",
-               "text":"0.2~beta33",
+               "text":"0.2~beta34",
                "class":"DepictionTableTextView"
             },
             {
@@ -95,7 +95,7 @@
          "tabname":"Changelog",
          "views":[
             {
-               "title":"버전 0.2~beta33",
+               "title":"버전 0.2~beta34",
                "useBoldText":true,
                "useBottomMargin":true,
                "class":"DepictionSubheaderView"
