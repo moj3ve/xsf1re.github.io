@@ -848,3 +848,19 @@ MD5sum: 52e7c1bac80ae5a6b264ff9e0c5c9e8d
 SHA1: 57c835396d2d0ad8cc132cd0fb2ef873bc108c5d
 SHA256: 9f44021585953a15030e1bfd6aff1e0b09384ca1f0cf9cefc9f252d6ee6c293b
 
+Package: kr.xsf1re.lockeypad7
+Name: LockeyPad7
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iOS 7 스타일의 숫자 키패드로 변경해줍니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 152
+Filename: debs/kr.xsf1re.lockeypad7_0.0.2_iphoneos-arm.deb
+Size: 4542
+MD5sum: d0e3012dbdd819cebcad6c2bf6979e12
+SHA1: a0aa5966e481301cdb6c9ed010854ef768721fc5
+SHA256: 779a9e2b86f7cb03bbf29baf048208e740fc5f3e17b6c77955687e23edcce8f7
+
