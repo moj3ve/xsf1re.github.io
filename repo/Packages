@@ -1012,3 +1012,19 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
 
+Package: kr.xsf1re.substrateloaderfix
+Name: SubstrateLoaderFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Substrate 0.9.7100(정식버전)와 호환됩니다. 재부팅 및 재탈옥이 필요하며 리브나 U+Pass, 롯데면세점 등 일부 앱과 SubstrateLoader가 서로 충돌되는 현상을 임시방편으로 고치는 역할을 합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.5
+Installed-Size: 88
+Filename: debs/kr.xsf1re.substrateloaderfix_0.4_iphoneos-arm.deb
+Size: 65404
+MD5sum: ee1a77d2b5d6a58b7d3ca3e4f85fd135
+SHA1: 0ddda81a73353631602f0799bd580d3c19e98920
+SHA256: ac3d008a3ace15a803cf800817992a815e23038c669f462a2a69a6bd364604d3
+
