@@ -1047,3 +1047,20 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
 
+Package: kr.xsf1re.installdpatch
+Name: installdPatch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tested for iOS 12.4-13.3. Makes installd allow over-the-air installation of IPAs signed by free developer accounts..
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: debs/kr.xsf1re.installdpatch_0.0.1_iphoneos-arm.deb
+Size: 3096
+MD5sum: 8b2959223dde8fa65f9290b2560d3915
+SHA1: 11fc5a920cca0a2d4654662a34ff7b886d61598e
+SHA256: 29c6434af619db75e6f2c5a263251cb1718b2a425ee2177876bc6f2a8030c6f5
+
+
