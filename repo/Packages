@@ -1063,20 +1063,4 @@ MD5sum: 8b2959223dde8fa65f9290b2560d3915
 SHA1: 11fc5a920cca0a2d4654662a34ff7b886d61598e
 SHA256: 29c6434af619db75e6f2c5a263251cb1718b2a425ee2177876bc6f2a8030c6f5
 
-Package: kr.xsf1re.installdpatch
-Name: installdPatch
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: 무료 개발자 계정으로부터 사이닝된 앱 설치를 가능하게 만듭니다.(iOS 11.3.1 - 13.3 버전에서 테스트 완료)
-Maintainer: XsF1re <shg1725x@yahoo.com>
-Author: XsF1re <shg1725x@yahoo.com>
-Section: Tweaks
-Version: 0.0.2
-Installed-Size: 104
-Filename: debs/kr.xsf1re.installdpatch_0.0.2_iphoneos-arm.deb
-Size: 5008
-MD5sum: f8a8140bdb0ff535ef8480af6bd1449a
-SHA1: 626d1a1733f6a4c28bb70e540126a283e6b7725c
-SHA256: c1b3f58987582d0e0913096e10e4c244b9ea5f20e7ab72c123ce62c2fa36d428
-
 
