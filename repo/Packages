@@ -1074,9 +1074,9 @@ Section: Tweaks
 Version: 0.0.2
 Installed-Size: 104
 Filename: debs/kr.xsf1re.installdpatch_0.0.2_iphoneos-arm.deb
-Size: 3300
-MD5sum: 9485cd78e6ca95b96c6aa75eaafc7f07
-SHA1: 75e5e2d0fa344edb6a4d9174a385bddfba13505b
-SHA256: 9c085eb61b5a78efa79b1835437eaab2e6b88c9f3bd4d805ed70637d9fb3027a
+Size: 5008
+MD5sum: f8a8140bdb0ff535ef8480af6bd1449a
+SHA1: 626d1a1733f6a4c28bb70e540126a283e6b7725c
+SHA256: c1b3f58987582d0e0913096e10e4c244b9ea5f20e7ab72c123ce62c2fa36d428
 
 
