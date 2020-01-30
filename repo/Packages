@@ -1155,4 +1155,20 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
 
+Package: kr.xsf1re.mcpatch
+Name: MCPatch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: targetDeviceType과 상관없이 프로파일을 설치 가능하게 해줍니다. (iOS 12.4 - 13.3 버전에서 작동확인 완료)
+Maintainer: XsF1re <xsf1re@kakao.com>
+Author: XsF1re <xsf1re@kakao.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: debs/kr.xsf1re.mcpatch_0.0.1_iphoneos-arm.deb
+Size: 2466
+MD5sum: e322ed82fc9dbbeeec990de05d688cac
+SHA1: 9552bee40218b4b8ac80f093a6ef424eedc66955
+SHA256: 946bcd380dcbdf45e74440dc434756f44549e640cbe1ccb934de326181907c8f
+
 
