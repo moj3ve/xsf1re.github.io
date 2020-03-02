@@ -1360,3 +1360,22 @@ SHA256: fb40ebe3cf4dd2da7a6da00d1009c5de756e999578a7394ab824860e94dcb149
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re <xsf1re@kakao.com>
+Author: XsF1re <xsf1re@kakao.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2.1~beta2
+Installed-Size: 836
+Filename: debs/kr.xsf1re.flyjb_0.2.1~beta2_iphoneos-arm.deb
+Size: 145120
+MD5sum: 36d36027eb7779f2847b59617c1e073b
+SHA1: 5f929bd386db34b9803117f1bdc0fe36e257c1c1
+SHA256: a32d31fbee49f6d20e5489501eda4caf17249434c94d1ba101a0ee6ed1e2557f
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
